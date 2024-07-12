@@ -47,7 +47,7 @@ nav ul li a::before{
 }
 
 nav ul li a:hover::before{
-    transform: scaleX(1);
+    transform: scaleX(1); 
     transform-origin: left;
 }
 label #btn,
